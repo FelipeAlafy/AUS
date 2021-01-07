@@ -7,10 +7,14 @@ And also need a library to execute aus files. You can get a library [here]().
 
 ## Documentation of `*.aus` file; And how do i make a library.
 You can learn about aus files [here]()
-You can learn about how to make a library [here]()
+
+---
+You can learn about how to make a library [here](https://github.com/FelipeAlafy/AUS/blob/main/Creating%20a%20library.md)
 
 ## Information on how to contribute.
 The AUS under BSD 3-Clause License. [See More]()
+
+---
 If you create a public AUS library, contact a moderator to check your code and place it in the official library archive, here on github.
 Together we will be able to prevent programmers from getting confused about which library to use.
 
